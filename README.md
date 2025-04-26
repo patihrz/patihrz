@@ -1,4 +1,4 @@
-### 👋 Hi there, I’m Patih Ramadika (@patihrz)
+### 👋 Hi there, I’m Patih Ramadika Zalni (@patihrz)
 
 - 👨‍💻 I’m a Fullstack Developer and IT Support based in Indonesia | Bogor City
 - 👀 I’m interested in building modern web apps, backend systems, and immersive UI/UX experiences
