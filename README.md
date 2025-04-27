@@ -3,10 +3,10 @@
 
 <h1 align="center">👋 Hi there, I’m Patih Ramadika Zalni (@patihrz)</h1>
 
-<h3 align="center">A Fullstack Developer & IT Support based in Bogor City, Indonesia 🇮🇩</h3>
+<h3 align="center">A Full Stack Developer & IT Support based in Bogor City, Indonesia 🇮🇩</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=24&center=true&vCenter=true&lines=Fullstack+Developer;IT+Support+Specialist;React.js+%7C+Node.js+%7C+Express.js;Building+Awesome+UI%2FUX;Learning+DevOps+and+System+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=24&center=true&vCenter=true&lines=Full Stack+Developer;IT+Support+Specialist;React.js+%7C+Node.js+%7C+Express.js;Building+Awesome+UI%2FUX;Learning+DevOps+and+System+Design" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -24,10 +24,10 @@
 ---
 
 ### 🚀 About Me
-- 👨‍💻 Fullstack Developer & IT Support based in **Bogor City, Indonesia** 🇮🇩
+- 👨‍💻 Full Stack Developer & IT Support based in **Bogor City, Indonesia** 🇮🇩
 - 👀 Interested in building modern web apps, backend systems, and immersive UI/UX experiences
 - 🌱 Currently learning **DevOps**, **TypeScript**, and **System Design**
-- 💞️ Open for collaboration on fullstack projects: **React.js**, **Node.js/Express.js**, **Tailwindcss**, **REST APIs**
+- 💞️ Open for collaboration on full stack projects: **React.js**, **Node.js/Express.js**, **Tailwindcss**, **REST APIs**
 - 📫 Reach me out: [🌐 Portfolio](https://portofoliov2-neon.vercel.app) | [💼 LinkedIn](https://id.linkedin.com/in/patih-ramadika-19b763217) | [🐙 GitHub](https://github.com/patihrz)
 - 🛠️ Tech Stack: **React.js • Node.js • Express.js • HTML/CSS • PHP • Oracle • MySQL • MongoDB • Bootstrap • Tailwindcss**
 - 😄 Pronouns: He/Him
