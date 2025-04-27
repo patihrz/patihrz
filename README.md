@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there, I’m Patih Ramadika Zalni (@patihrz)</h1>
 
-<h3 align="center">A Fullstack Developer & IT Support based in Bogor City, Indonesia 🇮🇩</h3>
+<h3 align="center">A Full Stack Developer & IT Support based in Bogor City, Indonesia 🇮🇩</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=24&lines=Building+modern+web+apps...;Crafting+immersive+UI/UX...;Learning+DevOps+and+TypeScript!" alt="Typing SVG" />
