@@ -29,7 +29,7 @@
 - 🌱 Currently learning **DevOps**, **TypeScript**, and **System Design**
 - 💞️ Open for collaboration on full stack projects: **React.js**, **Node.js/Express.js**, **Tailwindcss**, **REST APIs**
 - 📫 Reach me out: [🌐 Portfolio](https://portofoliov2-neon.vercel.app) | [💼 LinkedIn](https://id.linkedin.com/in/patih-ramadika-19b763217) | [🐙 GitHub](https://github.com/patihrz)
-- 🛠️ Tech Stack: **React.js • Node.js • Express.js • HTML/CSS • PHP • Oracle • MySQL • MongoDB • Bootstrap • Tailwindcss**
+
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building from scratch — layouts, systems, and ideas!
 
