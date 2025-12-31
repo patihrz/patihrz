@@ -1,9 +1,9 @@
 <!-- Banner Header -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Hi%20I'm%20Patih%20Ramadika%20Zalni!🚀&fontSize=35&fontColor=ffffff" />
 
-<h1 align="center">👋 Hi there, I’m Patih Ramadika Zalni (@patihrz)</h1>
+<h1 align="center">👋 Hi there, I’m Patih Ramadika (@patihrz)</h1>
 
-<h3 align="center">A Full Stack Developer & IT Support based in Bogor City, Indonesia 🇮🇩</h3>
+<h3 align="center">A Full Stack Developer & IT Support </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FEEF&size=24&center=true&vCenter=true&lines=Full+Stack+Developer;IT+Support+Specialist;React.js+%7C+Node.js+%7C+Express.js;Building+Awesome+UI%2FUX;Learning+DevOps+and+System+Design" alt="Typing SVG" />
