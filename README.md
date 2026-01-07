@@ -1,5 +1,5 @@
 <!-- Banner Header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Hi%20I'm%20Patih%20Ramadika%20Zalni!🚀&fontSize=35&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Hi%20I'm%20Patih%20Ramadika%20!🚀&fontSize=35&fontColor=ffffff" />
 
 <h1 align="center">👋 Hi there, I’m Patih Ramadika (@patihrz)</h1>
 
