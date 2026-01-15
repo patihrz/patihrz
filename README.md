@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/patihrz">
-    <img src="https://komarev.com/ghpvc/?username=patihrz&label=Profile%20views&color=bluegrey&style=flat" alt="patihrz" />
+    <img src="https://komarev.com/ghpvc/?username=patihrz&label=Profile%20views&color=red&style=flat" alt="patihrz" />
   </a>
   <a href="https://linkedin.com/in/patih-ramadika-19b763217">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
