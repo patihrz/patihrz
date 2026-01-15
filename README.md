@@ -74,7 +74,7 @@
 
 ### ✨ Let's Connect!
 <p align="center">
-  <a href="https://portofoliov2-neon.vercel.app" target="_blank">
+  <a href="https://patihrz.xyz" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/patih-ramadika-19b763217" target="_blank">
