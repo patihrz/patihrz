@@ -28,7 +28,7 @@
 - 👀 Interested in building modern web apps, backend systems, and immersive UI/UX experiences
 - 🌱 Currently learning **DevOps**, **TypeScript**, and **System Design**
 - 💞️ Open for collaboration on full stack projects: **React.js**, **Node.js/Express.js**, **Tailwindcss**, **REST APIs**
-- 📫 Reach me out: [🌐 Portfolio](https://portofoliov2-neon.vercel.app) | [💼 LinkedIn](https://id.linkedin.com/in/patih-ramadika-19b763217) | [🐙 GitHub](https://github.com/patihrz)
+- 📫 Reach me out: [🌐 Portfolio](https://patihrz.xyz) | [💼 LinkedIn](https://id.linkedin.com/in/patih-ramadika-19b763217) | [🐙 GitHub](https://github.com/patihrz)
 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love building from scratch — layouts, systems, and ideas!
