@@ -47,13 +47,3 @@ I am a dedicated **Full Stack Developer** and **IT Support** professional with a
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-
----
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=patihrz&show_icons=true&theme=transparent&hide_border=true&title_color=007ec6&text_color=5c5c5c&icon_color=007ec6" alt="Patih's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=patihrz&layout=compact&theme=transparent&hide_border=true&title_color=007ec6&text_color=5c5c5c" alt="Top Languages" />
-</p>
