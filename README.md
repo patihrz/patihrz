@@ -1,8 +1,7 @@
 <h1 align="center">Patih Ramadika</h1>
-<h3 align="center">Full Stack Developer & IT Support Specialist</h3>
 
 <p align="center">
-  Based in Bogor, Indonesia 🇮🇩
+  Bogor, Indonesia
 </p>
 
 <p align="center">
@@ -13,37 +12,58 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://patihrz.xyz">
-    <img src="https://img.shields.io/badge/Website-Portfolio-black?style=flat&logo=vercel" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=flat&logo=vercel" alt="Portfolio" />
   </a>
 </p>
 
 ---
 
-### 📋 About Me
+### About Me
 
-I am a dedicated **Full Stack Developer** and **IT Support** professional with a passion for building robust backend systems and intuitive user interfaces. Currently focusing on scaling applications and improving system architecture.
+Frontend Developer focused on building fast, responsive, and scalable web applications.
 
-* **Core Focus:** Web Application Development, REST APIs, and UI/UX Implementation.
-* **Current Learning:** DevOps practices, TypeScript, and Advanced System Design.
-* **Open for:** Collaboration on React.js and Node.js projects.
+Experienced in developing modern user interfaces using React and Next.js, with strong attention to performance, clean architecture, and maintainable code.
+
+Background in backend development allows me to collaborate effectively across the full stack.
 
 ---
 
-### 🛠 Tech Stack & Tools
+### Tech Stack
 
-**Frontend Development**
+**Frontend**
 <br>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
-**Backend & Database**
+**Backend (Supporting Skills)**
 <br>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+
+**Database**
+<br>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
+---
+
+### What I Focus On
+
+- Building modern UI with React & Next.js  
+- Performance optimization and code splitting  
+- Responsive and accessible design  
+- Reusable component architecture  
+- API integration and state management  
+
+---
+
+### Current Direction
+
+Deepening expertise in frontend architecture, performance optimization, and advanced React patterns.
